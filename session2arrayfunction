@@ -1,9 +1,0 @@
-matteo <- c(5,10,20,50,80)# an array is a set of elements: this is the array of mammal species
-
-sum(5, 0)
-sum (5, 10) 
-
-elisa <- c(100, 80, 50, 20, 10) # an array of human deaths due to  disease
-plot(matteo, elisa)
-
- 
