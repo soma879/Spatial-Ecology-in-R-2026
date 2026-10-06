@@ -6,4 +6,4 @@ Duccio Rocchini [born 1975 in Siena] has been Full Professor at the Alma Mater S
 
 (Go to the Curriculum)(https://www.unibo.it/sitoweb/duccio.rocchini)
 
-![] (PICS/DJI_20261001114729_0009_D.JPG)
+![ ] (PICS/DJI_20261001114729_0009_D.JPG)
