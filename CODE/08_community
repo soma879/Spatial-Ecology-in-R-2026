@@ -1,1 +1,10 @@
+install.packages("igraph")
 
+"Algae", "Zooplankton2", "
+
+#the number of 2 data frames should be equal otherwise it cant be built
+
+#graph remaining with different interaction 
+set.seed(42)
+g <- graph_from_data_frame(interactions, vertices = species, directed = T)
+plot(g)
